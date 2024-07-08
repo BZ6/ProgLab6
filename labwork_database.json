@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2,
+    "name": "dfs",
+    "coordinates": {
+      "x": 20.0,
+      "y": 30
+    },
+    "creationDate": "2023-02-21",
+    "minimalPoint": 6,
+    "personalQualitiesMinimum": 8,
+    "averagePoint": 7.0,
+    "difficulty": "TERRIBLE",
+    "discipline": {
+      "name": "Programming",
+      "lectureHours": 16
+    }
+  },
+  {
+    "id": 1,
+    "name": "lab5",
+    "coordinates": {
+      "x": 20.0,
+      "y": 30
+    },
+    "creationDate": "2023-02-21",
+    "minimalPoint": 6,
+    "personalQualitiesMinimum": 8,
+    "averagePoint": 7.0,
+    "difficulty": "TERRIBLE",
+    "discipline": {
+      "name": "Programming",
+      "lectureHours": 16
+    }
+  },
+  {
+    "id": 3,
+    "name": "lab5",
+    "coordinates": {
+      "x": 20.0,
+      "y": 30
+    },
+    "creationDate": "2023-02-21",
+    "minimalPoint": 6,
+    "personalQualitiesMinimum": 8,
+    "averagePoint": 7.0,
+    "difficulty": "TERRIBLE",
+    "discipline": {
+      "name": "Programming",
+      "lectureHours": 16
+    }
+  }
+]
